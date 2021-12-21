@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# LearnerR
+
+LearnR is an educators application that aims to bring together students and teachers on the community platform. The teachers will add lesson notes to school textbooks on the platform that can enable the student to learn the entire course syllabus from home. Students can add comments and questions to teachers’ notes. 
+
+# Documentation Content 
+
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
